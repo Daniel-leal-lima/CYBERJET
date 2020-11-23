@@ -73,7 +73,7 @@ public class MenuScreen extends ScreenAdapter {
 			}
 		});
 		
-		//Bot�o de tutorial 
+		//Botão de tutorial 
 		TextureRegionDrawable imagetutorial = new TextureRegionDrawable(tutorialImg);
 		imagetutorial.setMinSize(100, 100);
 		ImageButton tutorial = new ImageButton(imagetutorial);
